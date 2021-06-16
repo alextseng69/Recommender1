@@ -1,2 +1,1 @@
-# Recommender1
-# thank you Frank and Kana
+# Recommender project1
